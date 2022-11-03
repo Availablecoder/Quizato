@@ -23,7 +23,6 @@ jobs:
 
       - name: npm install, build, and test
         run: |
-          cd server
           npm install
           npm run build --if-present
           npm run test --if-present
@@ -53,5 +52,5 @@ jobs:
         with:
           app-name: 'quizato-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF1F972E05BB4E898C4545B2E26F7AB6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2441C802A9834D26AD2BEA87B64632F6 }}
           package: .
