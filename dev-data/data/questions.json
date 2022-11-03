@@ -1,0 +1,552 @@
+[
+  {
+    "_id": {
+      "$oid": "632856074296bd778b25665c"
+    },
+    "title": "There are ___ levels of heading in HTML",
+    "choices": ["Three", "Four", "Five", "Six"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328562d4296bd778b25665e"
+    },
+    "title": "The purpose of markup is to",
+    "choices": [
+      "add hypertext capabilities",
+      "enhance the document",
+      "both A & B",
+      "none of the above"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328563d4296bd778b256660"
+    },
+    "title": "Which of the following tags do not require a terminator?",
+    "choices": ["<u>", "<br>", "<b>", "none of the above"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632856464296bd778b256662"
+    },
+    "title": "Which one of the following tags is used to insert graphics in the webpage",
+    "choices": ["<image>", "<images>", "<img>", "<graphics>"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328564f4296bd778b256664"
+    },
+    "title": "The following html tag is used to display the content as a moving text",
+    "choices": ["<marquee>", "</img>", "<a href>", "none of the above"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632856604296bd778b256666"
+    },
+    "title": "html document have a extension ___",
+    "choices": [
+      ".htx or .htxl",
+      ".htm or .html",
+      ".hmt or hmtl",
+      "none of the above"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328566a4296bd778b256668"
+    },
+    "title": "The ___ element can be used to identify your html file to the outside world",
+    "choices": ["title", "body", "head", "none of the above"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632856714296bd778b25666a"
+    },
+    "title": "Which of the following tags do not require a terminator",
+    "choices": ["<u>", "<br>", "<b>", "none of the above"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328567f4296bd778b25666c"
+    },
+    "title": "The symbol that identities that HREF attribute as the name of a NAME anchor rather than an address or filename is",
+    "choices": ["“&”", "“$”", "“#”", "“!”"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632856894296bd778b25666e"
+    },
+    "title": "HTML is the method where ordinary text can be converted into",
+    "choices": ["ASCII Text", "EBCDIC Text", "Hypertext", "None of the above"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285c864296bd778b256674"
+    },
+    "title": "The CSS property used to control the element’s font-size is ___",
+    "choices": ["font-size", "text-size", "text-style", "None"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285c944296bd778b256676"
+    },
+    "title": "The HTML attribute used to define the internal stylesheet is ___",
+    "choices": ["style", "<style>", "<link>", "<script>"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285c9f4296bd778b256678"
+    },
+    "title": "Which of the following CSS property is used to set the background image of an element?",
+    "choices": [
+      "background-color",
+      "background-image",
+      "background-attachment",
+      "None"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cb04296bd778b25667a"
+    },
+    "title": "Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?",
+    "choices": [
+      "all {background-color : yellow;}",
+      "p {background-color : #yellow;}",
+      "p {background-color : yellow;}",
+      "all p {background-color : #yellow;}"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cbd4296bd778b25667c"
+    },
+    "title": "How to select the elements with the class name “example”?",
+    "choices": ["example", "#example", "Class example", ".example"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cc54296bd778b25667e"
+    },
+    "title": "The property in CSS used to change the background color of an element is ___",
+    "choices": ["background-color", "color", "bgcolor", "None"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cce4296bd778b256680"
+    },
+    "title": "The CSS property used to draw a line around the elements outside the border?",
+    "choices": ["line", "border", "padding", "outline"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cd74296bd778b256682"
+    },
+    "title": "Which of the following is used to specify the subscript of text using CSS?",
+    "choices": [
+      "vertical-align: super",
+      "vertical-align: sub",
+      "vertical-align: subscript",
+      "None"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285cdf4296bd778b256684"
+    },
+    "title": "Which of the following is the correct syntax to select the p siblings of a div element?",
+    "choices": ["p", "div  p", "div + p", "div ~ p"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63285ce64296bd778b256686"
+    },
+    "title": "Which of the following selector in CSS is used to select the elements that do not match the selectors?",
+    "choices": [":not selector", ":empty selector", ":! selector", "None"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632863ef4296bd778b25668a"
+    },
+    "title": "JavaScript is the programming language of the ___ .",
+    "choices": ["Desktop", "Mobile", "Web", "Server"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328647f4296bd778b25668c"
+    },
+    "title": "Which of the following statement(s) is true about the JavaScript?",
+    "choices": [
+      "It is a scripting language used to make the website interactive",
+      "It is an advanced version of Java for Desktop and Mobile application development",
+      "It is a markup language of Java to develop the webpages",
+      "All of the above"
+    ],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864b24296bd778b25668e"
+    },
+    "title": "JavaScript code can be written in ___ .",
+    "choices": [
+      "JavaScript file (.js file)",
+      "HTML document directly",
+      "JavaScript file and in HTML document directly",
+      "In style sheets (.css file)"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864bb4296bd778b256690"
+    },
+    "title": "Which property is used to define the HTML content to an HTML element with a specific id?",
+    "choices": ["innerText", "innerContent", "elementText", "innerHTML"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864c74296bd778b256692"
+    },
+    "title": "Which is the correct JavaScript statement to display \"Hello Boss!\" into an alert box?",
+    "choices": [
+      "alert('Hello Boss!');",
+      "alert(\"Hello Boss!\");",
+      "alert(Text:'Hello Boss!');",
+      "Both A. and B."
+    ],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864cf4296bd778b256694"
+    },
+    "title": "In JavaScript, multi-line comments start with __ and end with ___.",
+    "choices": ["/* and */", "<!-- and -->", "## and ##", "// and //"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864d74296bd778b256696"
+    },
+    "title": "How many keywords are there in JavaScript to declare variables or constants?",
+    "choices": ["1", "2", "3", "4"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864e04296bd778b256698"
+    },
+    "title": "Does JavaScript support increment (++) and decrements (--) Operators?",
+    "choices": ["Yes", "No"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864e84296bd778b25669a"
+    },
+    "title": "JavaScript types are ___ .",
+    "choices": ["Static", "Dynamic"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632864f74296bd778b25669c"
+    },
+    "title": "JavaScript objects are written with ___ .",
+    "choices": [
+      "round brackets ()",
+      "curly brackets {}",
+      "double quotes \"\"",
+      "square brackets []"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63286fed4296bd778b2566a0"
+    },
+    "title": "___ is used in React.js to increase performance?",
+    "choices": [
+      "Virtual DOM",
+      "Original DOM",
+      "Both Original & Virtual DOM",
+      "None of the Above"
+    ],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63286ff74296bd778b2566a2"
+    },
+    "title": "What is Babel?",
+    "choices": [
+      "A JavaScript transpiler",
+      "A JavaScript interpreter",
+      "A JavaScript Compiler",
+      "None of the above"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632870094296bd778b2566a4"
+    },
+    "title": "Which of the following command is used to create a react app?",
+    "choices": [
+      "install -g create-react-app",
+      "npm install create-react-app",
+      "npx create-react-app reactapp",
+      "None of the Above"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632870124296bd778b2566a6"
+    },
+    "title": "A valid react component can return only ......... element.",
+    "choices": ["2", "3", "1", "4"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328701b4296bd778b2566a8"
+    },
+    "title": "A state in React.js is also known is ___ ",
+    "choices": [
+      " A permanent storage.",
+      "An Internal storage of the component.",
+      "An External storage of the component.",
+      "All of the above"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632870244296bd778b2566aa"
+    },
+    "title": "Props are ___ into other components",
+    "choices": ["Methods", "Injected", "Both 1 & 2", "All of the above"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328702c4296bd778b2566ac"
+    },
+    "title": "Keys are given to a list of elements in react. These keys should be ___ ",
+    "choices": [
+      "Do not requires to be unique",
+      "Unique in the DOM",
+      "Unique among the siblings only",
+      "All of the above"
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632870344296bd778b2566ae"
+    },
+    "title": "___ helps react for keeping their data unidirectional.",
+    "choices": ["JSX", "Flux", "Dom", "Props"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328703c4296bd778b2566b0"
+    },
+    "title": "What is the smallest building block of ReactJS?",
+    "choices": ["props", "elements", "components", "None of the Above"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632870454296bd778b2566b2"
+    },
+    "title": "Which function is used to change the state of react component?",
+    "choices": [
+      "this.State{}",
+      "this.setState",
+      "this.setChangeState",
+      "None of the Above"
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632877ca4296bd778b2566b6"
+    },
+    "title": "Which of the following statement is correct?",
+    "choices": [
+      "Nodejs is Server Side Language.",
+      "Nodejs is the Client Side Language.",
+      "Nodejs is both Server Side and Client Side Language.",
+      "None of the Above"
+    ],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632877e14296bd778b2566b8"
+    },
+    "title": "What does the REPL stand for?",
+    "choices": [
+      "REPL stands for \"Research Eval Program Learn.\"",
+      "REPL stands for \"Read Earn Point Learn.\"",
+      "REPL stands for \"Read Eval Print Loop.\"",
+      "REPL stands for \"Read Eval Point Loop.\""
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632877ec4296bd778b2566ba"
+    },
+    "title": "What is Callback?",
+    "choices": [
+      "The callback is a technique in which a method calls back the caller method.",
+      "The callback is an asynchronous equivalent for a function.",
+      "Both of the above.",
+      "None of the above."
+    ],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632877f34296bd778b2566bc"
+    },
+    "title": "Which of the following extension is used to save the Node.js files?",
+    "choices": [".js", ".node", ".java", ".txt"],
+    "rightAnswer": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632878064296bd778b2566be"
+    },
+    "title": "The Node.js modules can be exposed using ___ ",
+    "choices": ["expose", "module", "exports", "All of the above"],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328780e4296bd778b2566c0"
+    },
+    "title": "Which of the following module is not a built-in node module?",
+    "choices": ["zlib", "https", "dgram", "fsread"],
+    "rightAnswer": 4,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632878174296bd778b2566c2"
+    },
+    "title": "Which of the following method of fs module is used to truncate a file?",
+    "choices": [
+      "fs.delete(fd, len, callback)",
+      "fs.remove(fd, len, callback)",
+      "fs.ftruncate(fd, len, callback)",
+      "None of the above."
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328781e4296bd778b2566c4"
+    },
+    "title": "Which of the following is not a benefit of using modules in Express?",
+    "choices": [
+      "It provides a means of dividing up tasks.",
+      "It provides a means of reuse of program code.",
+      "It provides a means of reducing the size of the program.",
+      "It provides a means of testing individual parts of the program."
+    ],
+    "rightAnswer": 3,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632878274296bd778b2566c6"
+    },
+    "title": "What is the default scope in the Node.js application?",
+    "choices": ["Global", "Local", "Global Function", "Local to object"],
+    "rightAnswer": 2,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632878314296bd778b2566c8"
+    },
+    "title": "Which of the following engine Node in core?",
+    "choices": ["Chrome V8", "Microsoft Chakra", "SpiderMonkey", "Node En"],
+    "rightAnswer": 1,
+    "__v": 0
+  }
+]

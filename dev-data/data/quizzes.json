@@ -1,0 +1,282 @@
+[
+  {
+    "_id": {
+      "$oid": "63272dec3b096e01f48fa47b"
+    },
+    "title": "HTML Quiz",
+    "subDescription": "HTML Multiple Choice Questions",
+    "description": "This simple quiz is to know your abilities in the HTML language, the quiz is multiple optional questions and contains simple questions for the HTML language. You can press the button and have this fun experience.",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1663512045/quiz-app/quizzes/html.png",
+    "tags": ["html", "web"],
+    "averageRating": 2.8,
+    "numOfReviews": 4,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663512044745"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1667389693638"
+      }
+    },
+    "__v": 0,
+    "questions": [
+      {
+        "$oid": "632856074296bd778b25665c"
+      },
+      {
+        "$oid": "6328562d4296bd778b25665e"
+      },
+      {
+        "$oid": "6328563d4296bd778b256660"
+      },
+      {
+        "$oid": "632856464296bd778b256662"
+      },
+      {
+        "$oid": "6328564f4296bd778b256664"
+      },
+      {
+        "$oid": "632856604296bd778b256666"
+      },
+      {
+        "$oid": "6328566a4296bd778b256668"
+      },
+      {
+        "$oid": "632856714296bd778b25666a"
+      },
+      {
+        "$oid": "6328567f4296bd778b25666c"
+      },
+      {
+        "$oid": "632856894296bd778b25666e"
+      }
+    ],
+    "slug": "html-quiz"
+  },
+  {
+    "_id": {
+      "$oid": "63272fc0578db9fe44c7f694"
+    },
+    "title": "CSS Quiz",
+    "subDescription": "CSS Multiple Choice Questions",
+    "description": "This simple quiz is to know your abilities in the CSS language, the quiz is multiple optional questions and contains simple questions for the CSS language. You can press the button and have this fun experience.",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1663512513/quiz-app/quizzes/css-3.png",
+    "tags": ["css", "css3", "css-3", "web"],
+    "averageRating": 4.5,
+    "numOfReviews": 2,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663512512644"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1666861612592"
+      }
+    },
+    "__v": 0,
+    "questions": [
+      {
+        "$oid": "63285c864296bd778b256674"
+      },
+      {
+        "$oid": "63285c944296bd778b256676"
+      },
+      {
+        "$oid": "63285c9f4296bd778b256678"
+      },
+      {
+        "$oid": "63285cb04296bd778b25667a"
+      },
+      {
+        "$oid": "63285cbd4296bd778b25667c"
+      },
+      {
+        "$oid": "63285cc54296bd778b25667e"
+      },
+      {
+        "$oid": "63285cce4296bd778b256680"
+      },
+      {
+        "$oid": "63285cd74296bd778b256682"
+      },
+      {
+        "$oid": "63285cdf4296bd778b256684"
+      },
+      {
+        "$oid": "63285ce64296bd778b256686"
+      }
+    ],
+    "slug": "css-quiz"
+  },
+  {
+    "_id": {
+      "$oid": "63273067578db9fe44c7f696"
+    },
+    "title": "JS Quiz",
+    "subDescription": "Javascript Multiple Choice Questions",
+    "description": "This simple quiz is to know your abilities in the Javascript language, the quiz is multiple optional questions and contains simple questions for the Javascript language. You can press the button and have this fun experience.",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1663512578/quiz-app/quizzes/js.png",
+    "tags": ["javascript", "js", "ecmascript"],
+    "averageRating": 2.8,
+    "numOfReviews": 3,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663512679577"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1666862425037"
+      }
+    },
+    "__v": 0,
+    "questions": [
+      {
+        "$oid": "632863ef4296bd778b25668a"
+      },
+      {
+        "$oid": "6328647f4296bd778b25668c"
+      },
+      {
+        "$oid": "632864b24296bd778b25668e"
+      },
+      {
+        "$oid": "632864bb4296bd778b256690"
+      },
+      {
+        "$oid": "632864c74296bd778b256692"
+      },
+      {
+        "$oid": "632864cf4296bd778b256694"
+      },
+      {
+        "$oid": "632864d74296bd778b256696"
+      },
+      {
+        "$oid": "632864e04296bd778b256698"
+      },
+      {
+        "$oid": "632864e84296bd778b25669a"
+      },
+      {
+        "$oid": "632864f74296bd778b25669c"
+      }
+    ],
+    "slug": "js-quiz"
+  },
+  {
+    "_id": {
+      "$oid": "632731b9b5941a13e4d7e650"
+    },
+    "title": "Reactjs Quiz",
+    "subDescription": "Reactjs Multiple Choice Questions",
+    "description": "This simple quiz is to know your abilities in the Reactjs library, the quiz is multiple optional questions and contains simple questions for the Reactjs library. You can press the button and have this fun experience.",
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1663513018/quiz-app/quizzes/react.png",
+    "tags": ["react", "js-library", "jsx"],
+    "averageRating": 2.5,
+    "numOfReviews": 2,
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663513017494"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1666862120602"
+      }
+    },
+    "__v": 0,
+    "questions": [
+      {
+        "$oid": "63286fed4296bd778b2566a0"
+      },
+      {
+        "$oid": "63286ff74296bd778b2566a2"
+      },
+      {
+        "$oid": "632870094296bd778b2566a4"
+      },
+      {
+        "$oid": "632870124296bd778b2566a6"
+      },
+      {
+        "$oid": "6328701b4296bd778b2566a8"
+      },
+      {
+        "$oid": "632870244296bd778b2566aa"
+      },
+      {
+        "$oid": "6328702c4296bd778b2566ac"
+      },
+      {
+        "$oid": "632870344296bd778b2566ae"
+      },
+      {
+        "$oid": "6328703c4296bd778b2566b0"
+      },
+      {
+        "$oid": "632870454296bd778b2566b2"
+      }
+    ],
+    "slug": "reactjs-quiz"
+  },
+  {
+    "_id": {
+      "$oid": "63284ab60e1008305f3bf0ab"
+    },
+    "title": "Nodejs Quiz",
+    "subDescription": "Nodejs Multiple Choice Questions",
+    "description": "This simple quiz is to know your abilities in the nodejs environment, the quiz is multiple optional questions and contains simple questions for the nodejs environment. You can press the button and have this fun experience.",
+    "tags": ["nodejs", "backend", "api"],
+    "averageRating": 2.3,
+    "numOfReviews": 3,
+    "questions": [
+      {
+        "$oid": "632877ca4296bd778b2566b6"
+      },
+      {
+        "$oid": "632877e14296bd778b2566b8"
+      },
+      {
+        "$oid": "632877ec4296bd778b2566ba"
+      },
+      {
+        "$oid": "632877f34296bd778b2566bc"
+      },
+      {
+        "$oid": "632878064296bd778b2566be"
+      },
+      {
+        "$oid": "6328780e4296bd778b2566c0"
+      },
+      {
+        "$oid": "632878174296bd778b2566c2"
+      },
+      {
+        "$oid": "6328781e4296bd778b2566c4"
+      },
+      {
+        "$oid": "632878274296bd778b2566c6"
+      },
+      {
+        "$oid": "632878314296bd778b2566c8"
+      }
+    ],
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1663584950359"
+      }
+    },
+    "updatedAt": {
+      "$date": {
+        "$numberLong": "1667394635175"
+      }
+    },
+    "__v": 0,
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1663683321/quiz-app/quizzes/node-js.png",
+    "slug": "nodejs-quiz"
+  }
+]

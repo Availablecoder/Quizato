@@ -1,0 +1,100 @@
+[
+  {
+    "_id": {
+      "$oid": "63315fd080329ae5c65d8ef3"
+    },
+    "email": "admin@example.com",
+    "name": "Admin",
+    "password": "$2b$10$uDe7vUBs/JDDsNbZfu3IaOlzsnSetlvKw7R4gLdJpMzIk7BCAYAiK",
+    "role": "admin",
+    "active": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "635a3c444b1a4ec87fc62192"
+    },
+    "email": "user1@demo.com",
+    "name": "Demo User 1",
+    "password": "$2b$10$QwYwKaXGQBUyN8iBAw0JlO1yzfoTGyjgrLec/DIe26pOXk2un.5I6",
+    "role": "user",
+    "active": true,
+    "__v": 0,
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1666860185/quiz-app/users/file_oed5ko.jpg",
+    "passwordChangedAt": {
+      "$date": {
+        "$numberLong": "1666881972806"
+      }
+    },
+    "passwordResetExpires": {
+      "$date": {
+        "$numberLong": "1667385105756"
+      }
+    },
+    "passwordResetToken": "55b21281a60681c18cae16c400b001c88ed4f0347d5415e8d7c257bf82250428"
+  },
+  {
+    "_id": {
+      "$oid": "635a47630d3660c59774451c"
+    },
+    "email": "user2@demo.com",
+    "name": "Demo User 2",
+    "password": "$2b$10$Jj4eGWJoK0MyLONgsP2Zl.qcXSpqBYNZaz2wqL9vNWq5drHT52xUK",
+    "role": "user",
+    "active": true,
+    "__v": 0,
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1666861637/quiz-app/users/file_c5ajlr.png",
+    "passwordChangedAt": {
+      "$date": {
+        "$numberLong": "1667394611966"
+      }
+    },
+    "passwordResetExpires": {
+      "$date": {
+        "$numberLong": "1667385198398"
+      }
+    },
+    "passwordResetToken": "819f4d12ee688e095ec085b70f9acb72c8342b1b6c2e24acd86d9fd29025c08c"
+  },
+  {
+    "_id": {
+      "$oid": "635a47b70d3660c59774453d"
+    },
+    "email": "user3@demo.com",
+    "name": "Demo User 3",
+    "password": "$2b$10$36jbMiB2XxtIyz5yfLqMludoZETYIMsd6C4XhIZ0.3xQsq6C.ReNi",
+    "role": "user",
+    "active": true,
+    "__v": 0,
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1666861090/quiz-app/users/file_lteabf.png"
+  },
+  {
+    "_id": {
+      "$oid": "635a4ad50d3660c5977446bf"
+    },
+    "email": "user4@demo.com",
+    "name": "Demo User 4",
+    "password": "$2b$10$jTSHtBUUrv2tjNqtqgzCZOJ1zAdtQ/X6igopJgNpvTyMNExwe3idO",
+    "role": "user",
+    "active": true,
+    "__v": 0,
+    "image": "https://res.cloudinary.com/availablecoder/image/upload/v1666861969/quiz-app/users/file_dthmzb.png",
+    "passwordResetExpires": {
+      "$date": {
+        "$numberLong": "1666870187140"
+      }
+    },
+    "passwordResetToken": "c8f3170823e83bb4696a7cf95725d990d00f1f17d2eece17e97af3d4a0e5e365"
+  },
+  {
+    "_id": {
+      "$oid": "635a4c500d3660c597744763"
+    },
+    "email": "user5@demo.com",
+    "name": "Demo User 5",
+    "password": "$2b$10$hHQKSYHrx52tX12g5TUns.kX8NGtLgBFeNh9et7TVYejA2xFg8M6S",
+    "role": "user",
+    "active": true,
+    "__v": 0
+  }
+]
