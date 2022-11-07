@@ -13,7 +13,7 @@ const useResetPassword = () => {
     setLoading(true);
     setAlert(null);
     try {
-      formData.url = `${window.location.origin}/auth/resetPassword`;
+      formData.url = `${window.location.origin}/quizato/auth/resetPassword`;
       const { data } = await fetchForgotPassword(formData);
       setAlert({ type: 'info', message: data.message });
       setLoading(false);
