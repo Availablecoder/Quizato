@@ -11,17 +11,21 @@ import Quizzes from './components/Quizzes';
 import Loader from '../../components/globalComponents/Loader';
 
 // Functions
-import { getAllQuizzes } from './quizSlice';
+import { useFetchQuizzes } from './useFetchQuizzes';
 
 // ###################3
 
 const Home = () => {
   const { loading } = useSelector((state) => state.quizzes);
-  const dispatch = useDispatch();
+  const { fetchAll } = useFetchQuizzes();
 
   useEffect(() => {
-    dispatch(getAllQuizzes());
-  }, [dispatch]);
+    (async () => {
+      await fetchAll();
+    })();
+
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   return (
     <>

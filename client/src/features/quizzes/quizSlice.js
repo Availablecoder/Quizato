@@ -26,6 +26,10 @@ export const quizzesSlice = createSlice({
   name: 'quizzes',
   initialState,
   reducers: {
+    getQuizzes: (state, action) => {
+      console.log(action.payload.quizzes);
+      state.quizzes = action.payload.quizzes;
+    },
     getQuiz: (state, action) => {
       state.quiz = action.payload;
     },
@@ -42,24 +46,16 @@ export const quizzesSlice = createSlice({
       state.openSnack = action.payload;
     },
   },
-  extraReducers: {
-    [getAllQuizzes.pending]: (state) => {
-      state.loading = true;
-    },
-    [getAllQuizzes.fulfilled]: (state, action) => {
-      state.quizzes = action.payload.quizzes;
-      state.loading = false;
-    },
-    [getAllQuizzes.rejected]: (state, action) => {
-      state.loading = false;
-      state.error = action.payload;
-    },
-    // ---
-  },
 });
 
 // Action creators are generated for each case reducer function
-export const { getQuiz, startLoading, endLoading, setError, popSnack } =
-  quizzesSlice.actions;
+export const {
+  getQuizzes,
+  getQuiz,
+  startLoading,
+  endLoading,
+  setError,
+  popSnack,
+} = quizzesSlice.actions;
 
 export default quizzesSlice.reducer;

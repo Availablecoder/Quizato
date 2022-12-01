@@ -1,5 +1,7 @@
 {
-  "name": "client",
+  "name": "Quizato",
+  "homepage": "https://preview.availablecoder.net/quizato/",
+  "description": "Quizato is a MERN stack web application where you can make account, take some quizzes and leave reviews to the quiz also.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
